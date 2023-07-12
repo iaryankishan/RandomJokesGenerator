@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://lh3.googleusercontent.com/J682gAIjolUKvvuGlh9OObbXEkf4G_eH8i1-Yx4hQqeSyc80AfU4myN9tvRI--TV61k");
+}
+
+#ran {
+  color: black;
+  border: 2px solid #a35ba4;
+  padding: 23px;
+  background-color: #b0ee87;
+  margin: 5px auto;
+  display: flex;
+  border-radius: 53px;
+  width: 50%;
+  justify-content: center;
+}
+
+#btn {
+  background-color: #752bbf;
+  color: black;
+  padding: 10px;
+  border: 2px solid #978cb1;
+  margin: 5px auto;
+  display: flex;
+  border-radius: 20px;
+}
